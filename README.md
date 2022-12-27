@@ -1,1 +1,1 @@
-# unsw-cse-home-computing
+# Home Computing at CSE on Windows using WSL
