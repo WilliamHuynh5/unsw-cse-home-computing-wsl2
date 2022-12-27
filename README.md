@@ -1,1 +1,1 @@
-# Home Computing at CSE on Windows using WSL
+# Home Computing at CSE using WSL
