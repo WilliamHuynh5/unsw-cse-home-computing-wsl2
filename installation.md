@@ -40,7 +40,7 @@ Please follow this guide [here](https://learn.microsoft.com/en-au/windows/wsl/in
 You can launch **WSL2** by opening **Start** on Windows and searching for **Ubuntu**.
 > **Ubuntu** is the default linux distribution installed by WSL2. It is very beginner friendly to use and has a lot of documentation + support online. You can check it out [here](https://learn.microsoft.com/en-us/windows/wsl/)!
 
-
+✅ Now it's time to configure our **WSL2** setup! 😎 To get started, click [here](configure.md)!
 
 
 
