@@ -7,4 +7,6 @@ THIS IS A WORK IN PROGRESS!!!
 2. Git
 
 ## The Reccomended
-1. C (COMP1511/COMP1521/COMP2521)
+1. gcc & gdb (COMP1521/COMP2521)
+2. node (COMP1531)
+3. jdk (COMP2511)
