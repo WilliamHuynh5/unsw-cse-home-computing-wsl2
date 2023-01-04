@@ -9,9 +9,9 @@ Here you will learn how to create and work seamlessly on a Linux environment wit
 ## Why WSL2 ? 🤔
 You have probably used **TigerVNC** or **SSH** to connect to UNSW's CSE machines before, allowing you to edit your files or execute terminal commands on CSE servers. 
 
-However the **TigerVNC/SSH** experience is not exactly smooth, with issues such as timeouts, disk quota limits, port numbers being stolen, or general unresponsiveness just to name a few. (Also the fact that you need a stable internet connection to use it).
+However the **TigerVNC/SSH** experience is not exactly smooth, with issues such as timeouts, disk quota limits, port numbers being stolen, or general unresponsiveness just to name a few. (Also the fact that you need a stable internet connection to connect to CSE in the first place).
 
-This guide will introduce a new method of working locally and creating a *seamless* setup where we can use a lot of the Linux commands and scripts that are taught in a majority of CSE courses,
+This guide will demonstrate how to create and configure a *seamless* local setup whilst still being able to use a lot of the Linux commands and scripts that are taught in the majority of CSE courses,
 
 ## What is WSL ? 🧠
 
