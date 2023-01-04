@@ -21,8 +21,5 @@ It is useful for developers who want to run Linux tools on their Windows machine
 
 > This is my first attempt at writing a technical guide 😅 If there is anything I can improve on, or anything that is unclear/confusing, please don't hesistate to reach out to me at william.huynh3@unsw.edu.au! Thanks! :D
 
-<br />
-<br />
-
 ✅ Sounds cool? 😎 To get started, click [here](installation.md)!
 
