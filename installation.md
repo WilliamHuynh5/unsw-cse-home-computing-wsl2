@@ -15,13 +15,13 @@ If you are on an older version, there are a few extra steps, but it is still sim
 
 >You can check your Windows build by opening **Start** and entering `winver`.
 
-![Winver Example](/assets/img2.png "img2")
-
 >If needed, you can update your build of Windows [here](https://support.microsoft.com/en-au/topic/windows-10-update-assistant-3550dfb2-a015-7765-12ea-fba2ac36fb3f).
 
-![Windows Version Example](/assets/img1.png "img1")
+![Winver Example](/assets/img2.png "img2")
 
-As you can see above, my Windows build is **`build 22000`** which is later than **`build 19041`**. This means I can install **WSL2** with a single command!
+As you can see below, my Windows build is **`build 22000`** which is later than **`build 19041`**. This means I can install **WSL2** with a single command!
+
+![Windows Version Example](/assets/img1.png "img1")
 
 ## Installing WSL on Build 19041+ 🛠️
 
