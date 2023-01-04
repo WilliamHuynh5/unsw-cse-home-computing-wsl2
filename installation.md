@@ -50,7 +50,7 @@ You can launch **WSL2** by opening **Start** on Windows and searching for **Ubun
 
 ![Ubuntu Example](/assets/img3.png "img3")
 
-<font size="5">✅ Now it's time to configure our **WSL2** setup! 😎 To get started, click [here](configure.md)!<font/>
+### ✅ Now it's time to configure our **WSL2** setup! 😎 To get started, click [here](configure.md)!
 
 
 
