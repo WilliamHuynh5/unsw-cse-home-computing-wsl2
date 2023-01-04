@@ -12,8 +12,7 @@ You have probably used **TigerVNC** or **SSH** to connect to UNSW's CSE machines
 However the **TigerVNC/SSH** experience is not exactly smooth, with issues such as timeouts, disk quota limits, port numbers being stolen, or general unresponsiveness just to name a few.
 
 This guide will introduce a new method of working locally and creating a *seamless* setup where we can use a lot of the Linux commands and scripts that are taught in a majority of CSE courses,
-<br />
-<br />
+
 ## What is WSL ? 🧠
 
 **Windows Subsystem for Linux** (WSL) can be used to run a wide variety of Linux software, including shells, text editors, and programming languages, on a Windows machine. 
@@ -23,4 +22,7 @@ It is useful for developers who want to run Linux tools on their Windows machine
 <br />
 <br />
 
-Sounds cool? 😎 To get started, click [here](installation.md)!
+✅ Sounds cool? 😎 To get started, click [here](installation.md)!
+<br />
+<br />
+> This is my first attempt at writing a technical guide 😅 If there is anything I can improve on, or anything that is unclear/confusing, please don't hesistate to reach out to me at william.huynh3@unsw.edu.au! Thanks :D
