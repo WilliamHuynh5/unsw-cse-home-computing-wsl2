@@ -44,11 +44,12 @@ If you are on an older version, there are a few extra steps, but it is still sim
 ```
 wsl --install
 ```
-5. And voila! To confirm your installation, you can type the following command and press **Enter**:
+5. Confirm your installation, by typing the following command and press **Enter**:
 ```
 wsl -l -v
 ```
-
+6. And voila! You can launch WSL2 by opening **Start** on Windows and searching for **Ubuntu**.
+> **Ubuntu** is the default linux distribution installed by WSL2. It is very beginner friendly to use and has a lot of documentation + support online. 
 ## Installing WSL on older builds
 Please follow this guide [here](https://learn.microsoft.com/en-au/windows/wsl/install-manual).
 
