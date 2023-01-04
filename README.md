@@ -19,12 +19,7 @@ This guide will demonstrate how to create and configure a *seamless* local setup
 
 It is useful for developers who want to run Linux tools on their Windows machine, but prefer the convenience of a Windows environment.
 
-<br />
-<br />
-
-✅ Sounds cool? 😎 To get started, click [here](installation.md)!
-
-<br />
-<br />
-
 > This is my first attempt at writing a technical guide 😅 If there is anything I can improve on, or anything that is unclear/confusing, please don't hesistate to reach out to me at william.huynh3@unsw.edu.au! Thanks! :D
+
+<font size="5">✅ Sounds cool? 😎 To get started, click [here](installation.md)!<font/>
+
