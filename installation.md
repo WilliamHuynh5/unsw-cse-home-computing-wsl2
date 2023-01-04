@@ -37,6 +37,8 @@ wsl --install
 wsl -l -v
 ```
 
+> If your installation was unsuccessful for any reason, try it again from the first step 😄
+
 ## Installing WSL on older builds 👴
 Please follow this guide [here](https://learn.microsoft.com/en-au/windows/wsl/install-manual).
 
