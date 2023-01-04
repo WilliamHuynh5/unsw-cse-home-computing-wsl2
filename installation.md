@@ -32,7 +32,7 @@ As you can see below, my Windows build is **`build 22000`** which is later than 
 ```
 wsl --install
 ```
-5. And voila! You can confirm your installation, by typing the following command and pressing **Enter**:
+5. Wait for the installation to complete, and voila! You can confirm your installation, by typing the following command and pressing **Enter**:
 ```
 wsl -l -v
 ```
