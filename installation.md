@@ -13,7 +13,7 @@ First off, we need to check our Windows build! If you are on **`build 19041`** o
 
 If you are on an older version, there are a few extra steps, but it is still simple all the same!
 
->You can check your Windows build by opening **Start** and entering `winver`.
+>You can check your Windows build by opening **Start** and entering `winver`. 🤔
 
 ![Winver Example](/assets/img2.png "img2")
 
@@ -46,7 +46,7 @@ Please follow this guide [here](https://learn.microsoft.com/en-au/windows/wsl/in
 You can launch **WSL2** by opening **Start** on Windows and searching for **Ubuntu**.
 > **Ubuntu** is the default linux distribution installed by WSL2. It is very beginner friendly to use and has a lot of documentation + support online. You can check out the documentation [here](https://learn.microsoft.com/en-us/windows/wsl/)!
 
-> **Important!** When you launch WSL2 for the first time, you will be prompted to enter a password. But the password characters are invisible! If you accidentally typed something and don't remember what it was, just hold the backspace key for a good five seconds 😅. Then carefully type in your password again, and press Enter!
+> **Important!** When you launch WSL2 for the first time, you will be prompted to enter a password. But the password characters are invisible! This is known as blind typing. If you accidentally typed something and don't remember what it was, just hold the backspace key for a good five seconds 😅. Then carefully type in your password again, and press Enter!
 
 ![Ubuntu Example](/assets/img3.png "img3")
 
