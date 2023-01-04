@@ -3,7 +3,7 @@
 THIS IS A WORK IN PROGRESS!!!
 
 ## The Essentals
-1. Text Editor
+1. VSCode
 2. Git
 
 ## The Reccomended
