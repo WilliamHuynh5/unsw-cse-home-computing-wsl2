@@ -4,20 +4,20 @@
 
 There are two versions of WSL, that being **WSL** & **WSL2**.
 
-This guide will demonstrate the **installation of WSL2**, as it offers both faster performance and is considered the successor to **WSL**. A detailed comparison between both versions can be found [here](https://learn.microsoft.com/en-us/windows/wsl/compare-versions#comparing-features).
+This guide will demonstrate the **installation of WSL2**, as it offers both faster performance and is considered the successor to **WSL**. A detailed comparison between both versions can be found [here](https://learn.microsoft.com/en-us/windows/wsl/compare-versions).
+
 
 ## Getting Started 🎉
 
-First off, we need to check our Windows build! If you are on `build 19041` or later, you can install **WSL2** with a single command! 
+First off, we need to check our Windows build! If you are on **`build 19041`** or later, you can install **WSL2** with a **single command**! 
 
 If you are on an older version, there are a few extra steps, but it is still simple all the same!
 
->You can check your Windows build by opening Search and entering `winver`.
+>You can check your Windows build by opening **Start** and entering `winver`.
+
+>If needed, you can update your version of Windows [here](https://support.microsoft.com/en-au/topic/windows-10-update-assistant-3550dfb2-a015-7765-12ea-fba2ac36fb3f).
 
 ![Windows Version Example](/assets/img1.png "img1")
-
->You can update your version of Windows [here](https://support.microsoft.com/en-au/topic/windows-10-update-assistant-3550dfb2-a015-7765-12ea-fba2ac36fb3f).
-
 
 ## Installing WSL on Build 19041+ 🛠️
 
