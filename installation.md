@@ -15,13 +15,13 @@ If you are on an older version, there are a few extra steps, but it is still sim
 
 >You can check your Windows build by opening **Start** and entering `winver`.
 
->If needed, you can update your build of Windows [here](https://support.microsoft.com/en-au/topic/windows-10-update-assistant-3550dfb2-a015-7765-12ea-fba2ac36fb3f).
-
 ![Winver Example](/assets/img2.png "img2")
 
 As you can see below, my Windows build is **`build 22000`** which is later than **`build 19041`**. This means I can install **WSL2** with a single command!
 
 ![Windows Version Example](/assets/img1.png "img1")
+
+>If needed, you can update your build of Windows [here](https://support.microsoft.com/en-au/topic/windows-10-update-assistant-3550dfb2-a015-7765-12ea-fba2ac36fb3f).
 
 ## Installing WSL on Build 19041+ 🛠️
 
@@ -42,7 +42,7 @@ Please follow this guide [here](https://learn.microsoft.com/en-au/windows/wsl/in
 
 ## Post Installation 🙌
 You can launch **WSL2** by opening **Start** on Windows and searching for **Ubuntu**.
-> **Ubuntu** is the default linux distribution installed by WSL2. It is very beginner friendly to use and has a lot of documentation + support online. You can check it out [here](https://learn.microsoft.com/en-us/windows/wsl/)!
+> **Ubuntu** is the default linux distribution installed by WSL2. It is very beginner friendly to use and has a lot of documentation + support online. You can check out the documentation [here](https://learn.microsoft.com/en-us/windows/wsl/)!
 
 ![Ubuntu Example](/assets/img3.png "img3")
 
