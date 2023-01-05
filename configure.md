@@ -10,14 +10,17 @@ sudo apt update && sudo apt upgrade
 ```
 > You will be prompted to enter in your `sudo password`. Enter in the password you created prior!
 
-> **Ubuntu** will **not** update itself automatically, so it is reccomended you do this step semi-frequently!
+> **Ubuntu** will **not** update itself automatically, so it is recommended you do this step semi-frequently!
 
 Great! Now we are going to install some applications and packages that will allow us to begin programming on our WSL setup!
-## The Essentials
+## The Essentials 🚨
 1. VSCode
 2. Git
 
-## The Reccomended
-1. gcc & gdb (COMP1521/COMP2521)
-2. node (COMP1531)
-3. jdk (COMP2511)
+## The Recommended 🪄 
+1. gcc & gdb - **COMP1521** & **COMP2521**
+2. nodeJS - **COMP1531**
+3. jdk - **COMP2511**
+
+### ✅ Now it's time to install the essentials! 😎 To get started, click [here](essentials.md)!
+
