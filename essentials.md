@@ -8,5 +8,5 @@ Here we will learn how to setup VSCode and Git with WSL, which are the bare nece
 ```
 code
 ```
-![Code Example](/assets/gif1.png "gif1")
+![Code Example](/assets/gif1.gif "gif1")
 
