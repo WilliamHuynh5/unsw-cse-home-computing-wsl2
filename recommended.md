@@ -20,7 +20,7 @@ sudo apt install valgrind
 ```
 valgrind --version
 ```
-> ✨ Bonus! Install the [C/C++ Language Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) VSCode extension for Intellisense features!
+> ✨ **Bonus!** Install the [C/C++ Language Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) VSCode extension for Intellisense features!
 ## **nodeJS** 🌐
 >Used in **COMP1531** & **COMP6080**
 1. Install **CURL** (a tool used for downloading content from the internet in the command-line) 
@@ -56,7 +56,7 @@ sudo apt install openjdk-11-jdk
 ```
 java --version
 ```
-> ✨ Bonus! Install the [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) VSCode extension for Intellisense features!
+> ✨ **Bonus!** Install the [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) VSCode extension for Intellisense features!
 ## **python3** 🐍
 >Used in **COMP1010**, **COMP2041** & **COMP3311**
 1. Install **python3** & **pip3**
@@ -68,4 +68,4 @@ sudo apt install python3 python3-pip
 python3 --version
 pip -V
 ```
-> ✨ Bonus! Install the [Python Language Pack](https://marketplace.visualstudio.com/items?itemName=ms-python.python) VSCode extension for Intellisense features!
+> ✨ **Bonus!** Install the [Python Language Pack](https://marketplace.visualstudio.com/items?itemName=ms-python.python) VSCode extension for Intellisense features!
