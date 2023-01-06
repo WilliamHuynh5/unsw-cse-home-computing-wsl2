@@ -18,8 +18,8 @@ Great! Now we are going to install some applications and packages that will allo
 2. **Git** - A version control system allowing you to code collaboratively with others
 
 ## The Recommended 🪄 
-1. **gcc**, **gdb** & **Valgrind** - C compiler, debugger & memory leak checker used in courses such as **COMP1521** & **COMP2521**
-2. **nodeJS** - JavaScript interpreter used in courses such as **COMP1531** & **COMP6080**
+1. **gcc**, **gdb** & **Valgrind** - C compiler, debugger & memory leak checker. Used in courses such as **COMP1511**, **COMP1521** & **COMP2521**
+2. **nodeJS** - JavaScript interpreter. Used in courses such as **COMP1531** & **COMP6080**
 3. **jdk** - A development environment for Java. Used in courses such as **COMP2511**
 
 ### ✅ Now it's time to install the essentials! 😎 To get started, click [here](essentials.md)!
