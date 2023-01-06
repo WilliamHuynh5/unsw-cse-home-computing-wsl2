@@ -18,7 +18,7 @@ Great! Now we are going to install some applications and packages that will allo
 2. **Git** - A version control system allowing you to code collaboratively with others
 
 ## The Recommended 🪄 
-1. **gcc**, **gdb** & **Valgrind** - C compiler, debugger & memory leak checker.   
+1. **gcc**, **gdb** & **valgrind** - C compiler, debugger & memory leak checker.   
 >Used in **COMP1511**, **COMP1521** & **COMP2521**
 2. **nodeJS** - JavaScript interpreter.  
 >Used in **COMP1531** & **COMP6080**
