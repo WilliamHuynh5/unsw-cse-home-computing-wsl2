@@ -69,3 +69,5 @@ python3 --version
 pip -V
 ```
 > ✨ **Bonus!** Install the [Python Language Pack](https://marketplace.visualstudio.com/items?itemName=ms-python.python) VSCode extension for Intellisense features!
+
+And that's all! Congratulations on setting up and configuring WSL! 🥳
