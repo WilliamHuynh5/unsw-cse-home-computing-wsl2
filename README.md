@@ -1,4 +1,4 @@
-# Home Computing at CSE using WSL2 🥳 [WIP]
+# Home Computing at CSE using WSL2 🥳 [v1.0]
 
 Welcome to my guide on Home Computing at CSE using WSL2!
 
