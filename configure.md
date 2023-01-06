@@ -20,10 +20,16 @@ Great! Now we are going to install some applications and packages that will allo
 ## The Recommended 🪄 
 1. **gcc**, **gdb** & **Valgrind** - C compiler, debugger & memory leak checker.   
 Used in **COMP1511**, **COMP1521** & **COMP2521**
+<br/>
+<br/>
 2. **nodeJS** - JavaScript interpreter.  
 Used in **COMP1531** & **COMP6080**
+<br/>
+<br/>
 3. **jdk** - Java development environment.  
 Used in **COMP2511**
+<br/>
+<br/>
 4. **python3** - Python interpreter.  
 Used in **COMP1010**, **COMP2041** & **COMP3311**
 
