@@ -1,7 +1,7 @@
 # The Essentials 🔧
 Here we will learn how to setup VSCode and Git with WSL, which are the bare necessities to get us programming!
 
-## Installing VSCode & the WSL extension
+## Installing VSCode & the WSL extension 💻
 1. Visit the [VSCode install page](https://code.visualstudio.com/download) and download & run the installer.
 2. Install the [Remote Development extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack).
 3. And that's all! To run it, simply open **Ubuntu**, and in the terminal, enter this command:
@@ -14,7 +14,7 @@ code
 
 > To open your current working directory in VSCode, you can run: `code .`
 
-## Installing Git
+## Installing Git 🏕️
 1. Open **Ubuntu**, and in the terminal, enter this command:
 ```
 sudo apt-get install git
@@ -28,7 +28,7 @@ git config --global user.name "Your Name"
 git config --global user.email "youremail@domain.com"
 ```
 
-## Using SSH keypairs to work on GitHub & GitLab
+## Using SSH keypairs to work on GitHub & GitLab 🔑 
 1. We will generate a new SSH key. Open **Ubuntu**, and in the terminal, enter this command. For each question, just hit the Enter key.
 ```
 ssh-keygen
@@ -61,3 +61,5 @@ cat ~/.ssh/id_rsa.pub
 
 
 ![Code Example](/assets/img6.png "img6")
+
+### ✅ Now it's time to install the recommended! 😎 To get started, click [here](recommended.md)!
