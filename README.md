@@ -1,5 +1,7 @@
 # Home Computing at CSE using WSL2 🥳 [v1.0]
 
+### First and foremost, huge thanks to Yuichiro Nakahira and Nicole Mikunda for proof-reading and test-running this guide! 🤩
+
 Welcome to my guide on Home Computing at CSE using WSL2!
 
 Here you will learn how to create and work seamlessly on a Linux environment without having to deal with the pain and suffering that is VLAB or SSH!
